@@ -1,0 +1,20 @@
+lastAccountName: Marlon
+timestamps:
+  login: 1581760986977
+  logout: 1581762173065
+ipAddress: 180.137.96.6
+lastlocation:
+  world: world
+  x: -3394.074999988079
+  y: 44.0
+  z: 65.69999998807907
+  yaw: -149.16272
+  pitch: -83.525894
+logoutlocation:
+  world: world
+  x: -162.20501483934572
+  y: 88.0
+  z: 385.01924905957566
+  yaw: -254.54306
+  pitch: 28.979753
+afk: false

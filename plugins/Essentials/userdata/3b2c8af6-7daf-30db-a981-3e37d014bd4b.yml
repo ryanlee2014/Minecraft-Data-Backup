@@ -1,0 +1,20 @@
+lastAccountName: swim
+timestamps:
+  login: 1578403576095
+  logout: 1578408607288
+ipAddress: 10.10.30.181
+lastlocation:
+  world: world
+  x: -176.0
+  y: 77.0
+  z: 32.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -3754.3818308508176
+  y: 68.0
+  z: 4.342370226434337
+  yaw: -62.56494
+  pitch: 23.39916
+afk: false

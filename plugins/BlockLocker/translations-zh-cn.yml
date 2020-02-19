@@ -1,0 +1,35 @@
+command:
+  cannot_be_used_by_console: '&4&l[木牌锁]&a控制台无法执行此指令'
+  cannot_edit_owner: '&4&l[木牌锁]&a你不打破牌子就不能更换主人'
+  line_number_out_of_bounds: '&4&l[木牌锁]&a请在 2 和 4 行之前选择一个数字'
+  no_permission: '&4&l[木牌锁]&a你没有权限执行此命令'
+  no_sign_selected: '&4&l[木牌锁]&a放置你要保护的东西,然后右键放置一个牌子'
+  player_name_too_long: '&4&l[木牌锁]&a玩家名字不能超过16个字母.'
+  plugin_reloaded: '&4&l[木牌锁]&6已重新加载!'
+  sign_no_longer_part_of_protection: '&4&l[木牌锁]&a所选木卡牌不再属于保护标志.'
+  updated_sign: '&4&l[木牌锁]&6升级木牌!'
+protection:
+  add_more_users_sign_instead: '&4&l[木牌锁]&a [Private] 是只有一个人能用， [More Users] 可设置多人能用.'
+  bypassed: '&4&l[木牌锁]&6绕过了 &2{0} &a的保护.'
+  cannot_change_sign: '&4&l[木牌锁]&a你不能改变已经上锁的方块.'
+  chest_hint: '&4&l[木牌锁]&6拿着木牌右键就能锁上了.'
+  claimed_container: '&4&l[木牌锁]&6成功上锁.'
+  claimed_manually: '&4&l[木牌锁]&6成功上锁，只有木牌上面的玩家可以使用它.'
+  expired: '&4&l[木牌锁]&6由于所有者不活动，对此方块的保护已过期.'
+  in_wilderness: '&4&l[木牌锁]&a你不能在这里上锁: 你在荒野中.'
+  is_claimed_by: '&4&l[木牌锁]&6这个方块是 {0} 的.'
+  no_access: '&4&l[木牌锁]&a你不能使用这个方块, 它是 {0} 的.'
+  no_permission_for_claim: '&4&l[木牌锁]&a你没有权限上锁.'
+  not_nearby: '&4&l[木牌锁]&a方块没有锁. 拿着木牌Shift加右键上锁.'
+  selected_sign: '&4&l[木牌锁]&6选择一个木牌. 输入 "/blocklocker <行号> <ID>" 来编辑木牌.'
+tag:
+  everyone: Everyone
+  more_users: '[More Users]'
+  private: '[Private]'
+  redstone: Redstone
+  timer: Timer
+updater:
+  more_information: '&4&l[木牌锁]&6更多信息: {0}'
+  unsupported_server: '&4&l[木牌锁]&a最新版本是 (version {0}) 不再支持这个版本, 只有 {1}.'
+  update_available: '&4&l[木牌锁]&6新版本 (version {0}) 可用.'
+  updated_automatically: '&4&l[木牌锁]&6新版本 (version {0}) 可用.重启服务器即可.'

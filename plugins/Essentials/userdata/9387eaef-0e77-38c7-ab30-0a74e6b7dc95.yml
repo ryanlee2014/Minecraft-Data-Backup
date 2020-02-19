@@ -1,0 +1,21 @@
+lastAccountName: Ryan
+timestamps:
+  login: 1582104719635
+  logout: 1582108687044
+  lastteleport: 1582047899892
+ipAddress: 106.127.189.98
+logoutlocation:
+  world: world
+  x: -3784.7090347131457
+  y: 64.0
+  z: -5.25449376582254
+  yaw: 206.75879
+  pitch: 0.002215178
+afk: false
+lastlocation:
+  world: world
+  x: -3872.5
+  y: 70.0
+  z: -7.5
+  yaw: 96.991425
+  pitch: -8.012071
