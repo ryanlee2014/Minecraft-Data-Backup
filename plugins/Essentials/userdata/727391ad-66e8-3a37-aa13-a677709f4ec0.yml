@@ -1,21 +1,21 @@
 lastlocation:
   world: world
-  x: -3794.506963309298
-  y: 64.0
-  z: 19.543164502703938
-  yaw: 3.7044983
-  pitch: 0.32577953
+  x: -2952.2311905934976
+  y: 40.0
+  z: 429.6999999880791
+  yaw: 243.69727
+  pitch: -40.950188
 lastAccountName: Spark
 timestamps:
-  login: 1582101814852
-  logout: 1582105916560
-  lastteleport: 1582103903360
-ipAddress: 111.58.244.128
+  login: 1582810826613
+  logout: 1582745638553
+  lastteleport: 1582819847839
+ipAddress: 219.232.77.17
 logoutlocation:
   world: world
-  x: -3782.2336916594327
-  y: 64.0
-  z: 33.63636629491275
-  yaw: -114.99882
-  pitch: -7.3644695
+  x: -3783.168998922233
+  y: 70.5
+  z: 41.210374536589
+  yaw: 179.90356
+  pitch: -1.206206
 afk: false
