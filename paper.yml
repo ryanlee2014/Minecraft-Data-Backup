@@ -64,12 +64,12 @@ world-settings:
     falling-block-height-nerf: 0
     tnt-entity-height-nerf: 0
     nether-ceiling-void-damage-height: 0
-    optimize-explosions: false
+    optimize-explosions: true
     disable-explosion-knockback: false
     disable-thunder: false
     disable-ice-and-snow: false
     mob-spawner-tick-rate: 1
-    container-update-tick-rate: 1
+    container-update-tick-rate: 3
     all-chunks-are-slime-chunks: false
     portal-search-radius: 128
     disable-teleportation-suffocation-check: false
@@ -79,7 +79,7 @@ world-settings:
     creative-arrow-despawn-rate: -1
     skeleton-horse-thunder-spawn-chance: 0.01
     fixed-chunk-inhabited-time: -1
-    grass-spread-tick-rate: 1
+    grass-spread-tick-rate: 3
     use-vanilla-world-scoreboard-name-coloring: false
     prevent-tnt-from-moving-in-water: false
     remove-corrupt-tile-entities: false
@@ -116,7 +116,7 @@ world-settings:
       hard: 128
     game-mechanics:
       disable-end-credits: false
-      disable-chest-cat-detection: false
+      disable-chest-cat-detection: true
       disable-player-crits: false
       disable-sprint-interruption-on-attack: false
       disable-unloaded-chunk-enderpearl-exploit: true

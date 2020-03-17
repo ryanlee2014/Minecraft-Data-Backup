@@ -64,7 +64,7 @@ world-settings:
     view-distance: default
     mob-spawn-range: 8
     item-despawn-rate: 6000
-    hopper-amount: 1
+    hopper-amount: 3
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
     zombie-aggressive-towards-villager: true
@@ -84,7 +84,7 @@ world-settings:
     seed-slime: 987234911
     max-tnt-per-tick: 100
     hanging-tick-frequency: 100
-    max-entity-collisions: 8
+    max-entity-collisions: 4
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -103,8 +103,8 @@ world-settings:
       sweetberry-modifier: 100
       kelp-modifier: 100
     merge-radius:
-      item: 2.5
-      exp: 3.0
+      item: 3.5
+      exp: 6.0
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -118,8 +118,8 @@ world-settings:
       misc: 32
       other: 64
     ticks-per:
-      hopper-transfer: 8
-      hopper-check: 1
+      hopper-transfer: 24
+      hopper-check: 24
     hunger:
       jump-walk-exhaustion: 0.05
       jump-sprint-exhaustion: 0.2

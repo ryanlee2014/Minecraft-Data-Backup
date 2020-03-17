@@ -757,3 +757,42 @@ Caused by: java.io.IOException: Server returned HTTP response code: 530 for URL:
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:847)
 
+[03-08 13:08:54]: [FINE] Spark logged in!
+[03-08 13:46:01]: [FINE] Spark logged in!
+[03-08 17:12:43]: [FINE] Ryan logged in!
+[03-08 19:05:33]: [FINE] swim logged in!
+[03-08 22:34:17]: [FINE] Spark logged in!
+[03-09 02:54:42]: [FINE] Spark logged in!
+[03-09 11:24:41]: [FINE] Ryan logged in!
+[03-09 11:27:29]: [FINE] Ryan logged in!
+[03-11 03:08:50]: [FINE] Spark logged in!
+[03-11 03:42:10]: [FINE] Spark logged in!
+[03-11 15:40:50]: [FINE] Spark logged in!
+[03-11 17:25:44]: [FINE] Ryan logged in!
+[03-12 00:28:49]: [FINE] Spark logged in!
+[03-12 01:02:09]: [FINE] Ryan logged in!
+[03-12 17:34:53]: [FINE] Spark logged in!
+[03-12 17:54:40]: [FINE] Spark logged in!
+[03-12 19:30:55]: [FINE] Spark logged in!
+[03-13 00:32:50]: [FINE] Spark logged in!
+[03-13 00:35:26]: [FINE] Spark logged in!
+[03-13 01:05:24]: [FINE] Ryan logged in!
+[03-15 02:10:10]: [FINE] Spark logged in!
+[03-15 04:07:05]: [FINE] Spark logged in!
+[03-15 05:42:27]: [FINE] Spark logged in!
+[03-15 17:45:40]: [FINE] Spark logged in!
+[03-15 17:49:01]: [FINE] Spark logged in!
+[03-15 17:50:30]: [FINE] Spark used the wrong password
+[03-15 17:50:39]: [FINE] Spark logged in!
+[03-15 17:58:39]: [FINE] Spark logged in!
+[03-15 19:24:05]: [FINE] Spark used the wrong password
+[03-15 19:24:19]: [FINE] Spark logged in!
+[03-15 20:46:42]: [FINE] Spark logged in!
+[03-15 21:49:07]: [FINE] Spark logged in!
+[03-15 23:01:23]: [FINE] Spark logged in!
+[03-16 02:04:52]: [FINE] Spark logged in!
+[03-16 16:55:55]: [FINE] Spark logged in!
+[03-16 17:23:47]: [FINE] Ryan logged in!
+[03-17 16:42:44]: [FINE] Ryan logged in!
+[03-17 17:20:47]: [FINE] Spark logged in!
+[03-17 19:28:01]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2347 disabled!
