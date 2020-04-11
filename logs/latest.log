@@ -1,23 +1,50 @@
-[00:02:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5161ms or 103 ticks behind
-[00:02:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8287ms or 165 ticks behind
-[00:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5263ms or 105 ticks behind
-[00:06:52] [Craft Scheduler Thread - 76057/INFO]: [Vault] Checking for Updates ... 
-[00:06:52] [Craft Scheduler Thread - 76057/INFO]: [Vault] There was an issue attempting to check for the latest version.
-[00:06:52] [Craft Scheduler Thread - 76057/INFO]: [Vault] No new version available
-[00:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
-[00:22:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
-[00:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
-[01:02:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5089ms or 101 ticks behind
-[01:03:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6171ms or 123 ticks behind
-[02:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5033ms or 100 ticks behind
-[02:43:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5053ms or 101 ticks behind
-[02:43:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
-[02:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5093ms or 101 ticks behind
-[03:19:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
-[03:21:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5169ms or 103 ticks behind
-[03:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9318ms or 186 ticks behind
-[03:22:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6161ms or 123 ticks behind
-[03:23:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[03:23:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5058ms or 101 ticks behind
-[03:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
-[03:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[01:16:54] [Craft Scheduler Thread - 127398/INFO]: [Vault] Checking for Updates ... 
+[01:16:55] [Craft Scheduler Thread - 127398/INFO]: [Vault] There was an issue attempting to check for the latest version.
+[01:16:55] [Craft Scheduler Thread - 127398/INFO]: [Vault] No new version available
+[01:52:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[01:53:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10694ms or 213 ticks behind
+[03:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5118ms or 102 ticks behind
+[03:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
+[03:39:05] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:39:07] [Server thread/INFO]: Stopping the server
+[03:39:07] [Server thread/INFO]: Stopping server
+[03:39:07] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-SNAPSHOT-b2347
+[03:39:07] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[03:39:07] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-SNAPSHOT-b2347 disabled!
+[03:39:07] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.1.29
+[03:39:07] [Server thread/INFO]: [Residence] Disabling Residence v4.8.8.2
+[03:39:07] [Server thread/INFO]: [Residence] Disabled!
+[03:39:07] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.1.5
+[03:39:07] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.1.29
+[03:39:07] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.1.29
+[03:39:07] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.1.29
+[03:39:07] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[03:39:07] [Server thread/INFO]: [BossShopPro] Disabling BossShopPro v2.0.8
+[03:39:07] [Server thread/INFO]: [BossShopPro] Disabling... bye!
+[03:39:07] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.1.1-SNAPSHOT-b777
+[03:39:07] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v2.1.5-SNAPSHOT
+[03:39:07] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: playerpoints
+[03:39:07] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[03:39:07] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[03:39:07] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: vault
+[03:39:07] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v2.2.2
+[03:39:07] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[03:39:07] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0.4-b136
+[03:39:07] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[03:39:07] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[03:39:07] [Server thread/INFO]: GroupManager version 2.0.4-b136 is disabled!
+[03:39:07] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.4
+[03:39:08] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.7.1
+[03:39:08] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[03:39:08] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[03:39:08] [Server thread/INFO]: Saving players
+[03:39:08] [Server thread/INFO]: Saving worlds
+[03:39:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[03:39:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:39:08] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[03:39:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:39:08] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[03:39:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:39:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:39:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:39:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
