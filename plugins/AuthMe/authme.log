@@ -1378,3 +1378,120 @@ Caused by: java.io.IOException: Server returned HTTP response code: 530 for URL:
 [04-23 17:59:31]: [FINE] The user Spark has 2 accounts:
 [04-23 17:59:31]: [FINE] §7§aRyan§7, §aSpark§7.
 [04-23 17:59:31]: [FINE] Spark logged in!
+[04-24 01:56:11]: [FINE] The user Spark has 2 accounts:
+[04-24 01:56:11]: [FINE] §7ryan, §aSpark§7.
+[04-24 01:56:11]: [FINE] Spark logged in!
+[04-24 12:05:19]: [FINE] The user Ryan has 2 accounts:
+[04-24 12:05:19]: [FINE] §7§aRyan§7, spark.
+[04-24 12:05:19]: [FINE] Ryan logged in!
+[04-24 12:11:40]: [FINE] The user Spark has 2 accounts:
+[04-24 12:11:40]: [FINE] §7§aRyan§7, §aSpark§7.
+[04-24 12:11:40]: [FINE] Spark logged in!
+[04-25 01:22:59]: [FINE] The user Spark has 2 accounts:
+[04-25 01:22:59]: [FINE] §7ryan, §aSpark§7.
+[04-25 01:22:59]: [FINE] Spark logged in!
+[04-25 15:06:36]: [FINE] The user Spark has 2 accounts:
+[04-25 15:06:36]: [FINE] §7ryan, §aSpark§7.
+[04-25 15:06:36]: [FINE] Spark logged in!
+[04-25 15:10:43]: [FINE] The user Spark has 2 accounts:
+[04-25 15:10:43]: [FINE] §7ryan, §aSpark§7.
+[04-25 15:10:43]: [FINE] Spark logged in!
+[04-25 15:20:35]: [FINE] The user Spark has 2 accounts:
+[04-25 15:20:35]: [FINE] §7ryan, §aSpark§7.
+[04-25 15:20:35]: [FINE] Spark logged in!
+[04-25 15:43:28]: [FINE] Spark logged in!
+[04-25 15:50:24]: [FINE] Ryan logged in!
+[04-25 16:12:43]: [FINE] The user Spark has 2 accounts:
+[04-25 16:12:43]: [FINE] §7§aRyan§7, §aSpark§7.
+[04-25 16:12:43]: [FINE] Spark logged in!
+[04-25 16:21:50]: [FINE] Spark used the wrong password
+[04-25 16:22:02]: [FINE] Spark used the wrong password
+[04-25 16:22:12]: [FINE] The user Spark has 2 accounts:
+[04-25 16:22:12]: [FINE] §7§aRyan§7, §aSpark§7.
+[04-25 16:22:12]: [FINE] Spark logged in!
+[04-25 16:23:14]: [FINE] The user Spark has 2 accounts:
+[04-25 16:23:14]: [FINE] §7§aRyan§7, §aSpark§7.
+[04-25 16:23:14]: [FINE] Spark logged in!
+[04-25 16:25:45]: [FINE] Spark logged in!
+[04-25 20:34:02]: [FINE] The user Spark has 2 accounts:
+[04-25 20:34:02]: [FINE] §7ryan, §aSpark§7.
+[04-25 20:34:02]: [FINE] Spark logged in!
+[04-25 20:57:03]: [FINE] The user Spark has 2 accounts:
+[04-25 20:57:03]: [FINE] §7ryan, §aSpark§7.
+[04-25 20:57:03]: [FINE] Spark logged in!
+[04-26 21:02:04]: [FINE] Spark used the wrong password
+[04-26 21:02:12]: [FINE] Spark used the wrong password
+[04-26 21:02:23]: [FINE] The user Spark has 2 accounts:
+[04-26 21:02:23]: [FINE] §7ryan, §aSpark§7.
+[04-26 21:02:23]: [FINE] Spark logged in!
+[04-26 21:06:14]: [FINE] Spark used the wrong password
+[04-26 21:06:27]: [FINE] The user Spark has 2 accounts:
+[04-26 21:06:27]: [FINE] §7ryan, §aSpark§7.
+[04-26 21:06:27]: [FINE] Spark logged in!
+[04-26 21:38:24]: [FINE] The user Spark has 2 accounts:
+[04-26 21:38:24]: [FINE] §7ryan, §aSpark§7.
+[04-26 21:38:24]: [FINE] Spark logged in!
+[04-26 21:49:08]: [FINE] The user Spark has 2 accounts:
+[04-26 21:49:08]: [FINE] §7ryan, §aSpark§7.
+[04-26 21:49:08]: [FINE] Spark logged in!
+[04-26 21:58:01]: [FINE] The user Spark has 2 accounts:
+[04-26 21:58:01]: [FINE] §7ryan, §aSpark§7.
+[04-26 21:58:01]: [FINE] Spark logged in!
+[04-26 21:59:18]: [FINE] The user Spark has 2 accounts:
+[04-26 21:59:18]: [FINE] §7ryan, §aSpark§7.
+[04-26 21:59:18]: [FINE] Spark logged in!
+[04-26 22:14:04]: [FINE] The user Spark has 2 accounts:
+[04-26 22:14:04]: [FINE] §7ryan, §aSpark§7.
+[04-26 22:14:04]: [FINE] Spark logged in!
+[04-26 22:21:27]: [FINE] The user Spark has 2 accounts:
+[04-26 22:21:27]: [FINE] §7ryan, §aSpark§7.
+[04-26 22:21:27]: [FINE] Spark logged in!
+[04-26 23:13:27]: [FINE] The user Spark has 2 accounts:
+[04-26 23:13:27]: [FINE] §7ryan, §aSpark§7.
+[04-26 23:13:27]: [FINE] Spark logged in!
+[04-26 23:47:57]: [FINE] The user Spark has 2 accounts:
+[04-26 23:47:57]: [FINE] §7ryan, §aSpark§7.
+[04-26 23:47:57]: [FINE] Spark logged in!
+[04-26 23:55:13]: [FINE] The user Spark has 2 accounts:
+[04-26 23:55:13]: [FINE] §7ryan, §aSpark§7.
+[04-26 23:55:13]: [FINE] Spark logged in!
+[04-26 23:56:06]: [FINE] The user Spark has 2 accounts:
+[04-26 23:56:06]: [FINE] §7ryan, §aSpark§7.
+[04-26 23:56:06]: [FINE] Spark logged in!
+[04-27 00:03:12]: [FINE] The user Spark has 2 accounts:
+[04-27 00:03:12]: [FINE] §7ryan, §aSpark§7.
+[04-27 00:03:12]: [FINE] Spark logged in!
+[04-27 00:49:29]: [FINE] Spark logged in!
+[04-27 20:44:43]: [FINE] The user Spark has 2 accounts:
+[04-27 20:44:43]: [FINE] §7ryan, §aSpark§7.
+[04-27 20:44:43]: [FINE] Spark logged in!
+[04-27 21:14:42]: [FINE] The user Spark has 2 accounts:
+[04-27 21:14:42]: [FINE] §7ryan, §aSpark§7.
+[04-27 21:14:42]: [FINE] Spark logged in!
+[04-27 21:31:08]: [FINE] The user Spark has 2 accounts:
+[04-27 21:31:08]: [FINE] §7ryan, §aSpark§7.
+[04-27 21:31:08]: [FINE] Spark logged in!
+[04-27 21:36:53]: [FINE] The user Spark has 2 accounts:
+[04-27 21:36:53]: [FINE] §7ryan, §aSpark§7.
+[04-27 21:36:53]: [FINE] Spark logged in!
+[04-27 22:50:16]: [FINE] The user Spark has 2 accounts:
+[04-27 22:50:16]: [FINE] §7ryan, §aSpark§7.
+[04-27 22:50:16]: [FINE] Spark logged in!
+[04-27 23:07:28]: [FINE] The user Spark has 2 accounts:
+[04-27 23:07:28]: [FINE] §7ryan, §aSpark§7.
+[04-27 23:07:28]: [FINE] Spark logged in!
+[04-27 23:09:26]: [FINE] The user Spark has 2 accounts:
+[04-27 23:09:26]: [FINE] §7ryan, §aSpark§7.
+[04-27 23:09:26]: [FINE] Spark logged in!
+[04-27 23:29:45]: [FINE] The user Spark has 2 accounts:
+[04-27 23:29:45]: [FINE] §7ryan, §aSpark§7.
+[04-27 23:29:45]: [FINE] Spark logged in!
+[04-27 23:40:17]: [FINE] Spark logged in!
+[04-28 01:41:07]: [FINE] Ryan logged in!
+[04-28 15:13:27]: [FINE] Spark logged in!
+[04-28 15:50:17]: [FINE] Spark logged in!
+[04-28 15:57:53]: [FINE] Spark logged in!
+[04-28 17:18:20]: [FINE] Spark logged in!
+[04-28 18:20:10]: [FINE] Spark logged in!
+[04-28 21:23:01]: [FINE] Spark logged in!
+[04-28 21:45:31]: [FINE] Spark logged in!
