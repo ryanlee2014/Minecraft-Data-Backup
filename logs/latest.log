@@ -1,294 +1,58 @@
-[00:15:02] [Server thread/INFO]: Spark fell from a high place
-[00:15:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5081ms or 101 ticks behind
-[00:15:11] [Server thread/INFO]: Spark issued server command: /back
-[00:25:56] [Server thread/INFO]: Spark was shot by Stray
-[00:26:04] [Server thread/INFO]: Spark issued server command: /back
-[00:35:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5119ms or 102 ticks behind
-[00:36:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5050ms or 101 ticks behind
-[00:45:49] [Server thread/INFO]: Spark fell from a high place
-[00:46:00] [Server thread/INFO]: Spark issued server command: /back
-[00:46:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
-[00:56:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[01:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5064ms or 101 ticks behind
-[01:15:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5088ms or 101 ticks behind
-[01:21:17] [Server thread/INFO]: Spark fell from a high place
-[01:21:26] [Server thread/INFO]: Spark issued server command: /back
-[01:38:00] [Server thread/INFO]: Spark fell from a high place
-[01:38:10] [Server thread/INFO]: Spark issued server command: /back
-[01:40:57] [User Authenticator #48/INFO]: UUID of player Ryan is 9387eaef-0e77-38c7-ab30-0a74e6b7dc95
-[01:40:57] [Server thread/INFO]: Ryan[/222.218.182.96:25586] logged in with entity id 3518668 at ([world]-3710.295486434365, 105.0, 40.53400916714502)
-[01:40:57] [Craft Scheduler Thread - 51510/INFO]: Failed to check for Residence update on spigot web page.
-[01:41:07] [Craft Scheduler Thread - 51507/INFO]: [AuthMe] Ryan logged in!
-[01:41:10] [Server thread/INFO]: Ryan issued server command: /gamemode creative
-[01:41:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
-[01:41:16] [Server thread/INFO]: Ryan issued server command: /weather sun
-[01:41:38] [Server thread/INFO]: Ryan issued server command: //wan
-[01:41:40] [Server thread/INFO]: Ryan issued server command: //wand
-[01:41:54] [Async Chat Thread - #26/INFO]: []<Ryan> 有点难
-[01:42:05] [Async Chat Thread - #26/INFO]: []<Spark> 呢算了
-[01:42:06] [Async Chat Thread - #26/INFO]: []<Ryan> 我把能移动的移动了
-[01:42:15] [Async Chat Thread - #26/INFO]: []<Spark> 我先下去
-[01:42:52] [Async Chat Thread - #26/INFO]: []<Spark> 会不会把庙堂的也一起移动了
-[01:43:02] [Server thread/INFO]: Ryan issued server command: //cut
-[01:43:08] [Server thread/INFO]: Ryan issued server command: //paste
-[01:43:09] [Async Chat Thread - #26/INFO]: []<Spark> 坐标重合
-[01:43:21] [Async Chat Thread - #26/INFO]: []<Ryan> 剩下的你移过来吧
-[01:43:33] [Async Chat Thread - #26/INFO]: []<Spark> 行
-[01:43:41] [Server thread/INFO]: Ryan issued server command: //cut
-[01:43:46] [Async Chat Thread - #26/INFO]: []<Spark> 等会，带你看看钟楼
-[01:43:46] [Server thread/INFO]: Ryan issued server command: //paste
-[01:44:11] [Async Chat Thread - #26/INFO]: []<Ryan> 草
-[01:44:32] [Async Chat Thread - #26/INFO]: []<Spark> 楼顶歪了90°
-[01:44:44] [Async Chat Thread - #26/INFO]: []<Ryan> 那我旋转一下?
-[01:45:05] [Async Chat Thread - #26/INFO]: []<Spark> 这也可以？
-[01:45:50] [Server thread/INFO]: Ryan issued server command: //cut
-[01:45:59] [Server thread/INFO]: Ryan issued server command: //rotate 90
-[01:46:17] [Server thread/INFO]: Ryan issued server command: //paste
-[01:46:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
-[01:46:28] [Server thread/INFO]: Ryan issued server command: //undo
-[01:46:33] [Server thread/INFO]: Ryan issued server command: //paste
-[01:46:37] [Async Chat Thread - #27/INFO]: []<Spark> ?
-[01:46:53] [Server thread/INFO]: Ryan issued server command: //undo
-[01:46:56] [Server thread/INFO]: Ryan issued server command: //paste
-[01:47:07] [Server thread/INFO]: Ryan issued server command: //undo
-[01:47:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[01:47:13] [Server thread/INFO]: Ryan issued server command: //paste
-[01:47:23] [Server thread/INFO]: Ryan issued server command: //undo
-[01:47:25] [Server thread/INFO]: Ryan issued server command: //paste
-[01:47:31] [Server thread/INFO]: Ryan issued server command: //undo
-[01:47:36] [Server thread/INFO]: Ryan issued server command: //paste
-[01:47:43] [Server thread/INFO]: Ryan issued server command: //undo
-[01:47:46] [Server thread/INFO]: Ryan issued server command: //paste
-[01:47:55] [Server thread/INFO]: Ryan issued server command: //undo
-[01:47:56] [Async Chat Thread - #28/INFO]: []<Spark> 只是楼顶
-[01:47:59] [Server thread/INFO]: Ryan issued server command: //paste
-[01:48:04] [Async Chat Thread - #28/INFO]: []<Spark> 其他没歪
-[01:48:08] [Server thread/INFO]: Ryan issued server command: //undo
-[01:48:09] [Server thread/INFO]: Ryan issued server command: //undo
-[01:48:15] [Async Chat Thread - #28/INFO]: []<Ryan> 你早说
-[01:48:55] [Server thread/INFO]: Ryan issued server command: /time set morning
-[01:50:04] [Server thread/INFO]: Ryan issued server command: /tp Ryan -3906 79 -24
-[01:50:21] [Server thread/INFO]: Spark fell from a high place
-[01:50:24] [Server thread/INFO]: Ryan issued server command: //cut
-[01:50:29] [Server thread/INFO]: Spark issued server command: /back
-[01:50:34] [Server thread/INFO]: Ryan issued server command: /tp Ryan -3906 78 -24
-[01:50:38] [Server thread/INFO]: Ryan issued server command: //rotate 90
-[01:50:39] [Server thread/INFO]: Ryan issued server command: //paste
-[01:50:46] [Server thread/INFO]: Ryan issued server command: //undo
-[01:50:49] [Server thread/INFO]: Ryan issued server command: //paste
-[01:51:00] [Async Chat Thread - #29/INFO]: []<Ryan> 来看看
-[01:51:19] [Async Chat Thread - #29/INFO]: []<Ryan> 对没
-[01:51:21] [Async Chat Thread - #29/INFO]: []<Spark> 对了
-[01:51:49] [Server thread/INFO]: Ryan issued server command: //cut
-[01:51:53] [Server thread/INFO]: Ryan issued server command: //paste
-[01:52:01] [Server thread/INFO]: Ryan issued server command: //undo
-[01:52:04] [Server thread/INFO]: Ryan issued server command: //paste
-[01:52:54] [Server thread/INFO]: Ryan issued server command: //set minecraft:air
-[01:53:01] [Server thread/INFO]: Ryan issued server command: //undo
-[01:53:18] [Server thread/INFO]: Ryan issued server command: //set minecraft:air
-[01:54:02] [Async Chat Thread - #30/INFO]: []<Ryan> 给你清理了一块地皮
-[01:54:09] [Server thread/INFO]: Spark issued server command: /
-[01:54:14] [Async Chat Thread - #30/INFO]: []<Spark> ?
-[01:54:18] [Async Chat Thread - #30/INFO]: []<Ryan> 西边
-[01:54:36] [Async Chat Thread - #30/INFO]: []<Spark> 还行
-[01:54:49] [Async Chat Thread - #30/INFO]: []<Spark> 修个五重塔好了
-[01:55:16] [Server thread/INFO]: Ryan issued server command: //set air
-[01:55:35] [Server thread/INFO]: Ryan issued server command: //set air
-[01:55:53] [Server thread/INFO]: Ryan issued server command: //undo
-[01:55:55] [Server thread/INFO]: Ryan issued server command: //undo
-[01:56:04] [Async Chat Thread - #31/INFO]: []<Spark> 你居然把天然的呢个地形清理了
-[01:56:18] [Async Chat Thread - #31/INFO]: []<Ryan> 草 你才发现
-[01:56:37] [Async Chat Thread - #31/INFO]: []<Spark> 我还说当作自然景观
-[01:56:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
-[01:56:46] [Async Chat Thread - #31/INFO]: []<Spark> 算了
-[01:56:53] [Async Chat Thread - #31/INFO]: []<Ryan> 那我恢复?
-[01:57:11] [Async Chat Thread - #31/INFO]: []<Spark> 恢复那一小块就好了
-[01:57:20] [Async Chat Thread - #31/INFO]: []<Ryan> 哪一小块
-[01:57:28] [Async Chat Thread - #31/INFO]: []<Spark> 有突起的呢一块
-[01:57:32] [Server thread/INFO]: Ryan issued server command: //undo
-[01:57:43] [Async Chat Thread - #31/INFO]: []<Ryan> 我这个只能全恢复(
-[01:57:53] [Async Chat Thread - #31/INFO]: []<Spark> 呢你先恢复再清理
-[01:58:05] [Async Chat Thread - #31/INFO]: []<Ryan> 那这边我就不清理了(
-[01:58:11] [Async Chat Thread - #31/INFO]: []<Spark> 呢算了
-[01:59:26] [Async Chat Thread - #32/INFO]: []<Ryan> 下线洗澡
-[01:59:42] [Server thread/INFO]: Ryan lost connection: Disconnected
-[01:59:42] [Server thread/INFO]: Ryan left the game
-[01:59:43] [Async Chat Thread - #32/INFO]: []<Spark> 不知到你洗完澡我修好了没有
-[02:06:14] [Server thread/INFO]: Spark fell from a high place
-[02:06:23] [Server thread/INFO]: Spark issued server command: /back
-[02:17:55] [Server thread/INFO]: Spark fell from a high place
-[02:18:03] [Server thread/INFO]: Spark issued server command: /back
-[02:42:09] [Server thread/INFO]: Spark fell from a high place
-[02:42:17] [Server thread/INFO]: Spark fell from a high place
-[02:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5036ms or 100 ticks behind
-[02:42:27] [Server thread/INFO]: Spark fell from a high place
-[02:42:38] [Server thread/INFO]: Spark fell from a high place
-[02:42:54] [Server thread/INFO]: Spark fell from a high place
-[02:43:04] [Server thread/INFO]: Spark fell from a high place
-[02:43:12] [Server thread/INFO]: Spark fell from a high place
-[02:43:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22033ms or 440 ticks behind
-[02:43:23] [Server thread/INFO]: Spark fell from a high place
-[02:43:29] [Server thread/INFO]: Spark fell from a high place
-[02:43:35] [Server thread/INFO]: Spark fell from a high place
-[02:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23211ms or 464 ticks behind
-[02:51:13] [Server thread/INFO]: Spark hit the ground too hard
-[02:51:21] [Server thread/INFO]: Spark issued server command: /back
-[03:03:34] [Server thread/INFO]: Spark fell from a high place
-[03:03:41] [Server thread/INFO]: Spark issued server command: /back
-[03:57:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5180ms or 103 ticks behind
-[04:01:01] [Craft Scheduler Thread - 52267/INFO]: [Vault] Checking for Updates ... 
-[04:01:01] [Craft Scheduler Thread - 52267/INFO]: [Vault] There was an issue attempting to check for the latest version.
-[04:01:01] [Craft Scheduler Thread - 52267/INFO]: [Vault] No new version available
-[04:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5072ms or 101 ticks behind
-[04:19:08] [Server thread/INFO]: Spark fell from a high place
-[04:19:15] [Server thread/INFO]: Spark issued server command: /back
-[04:37:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
-[04:55:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[04:56:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29992ms or 599 ticks behind
-[05:02:55] [Server thread/INFO]: Spark lost connection: Disconnected
-[05:02:55] [Server thread/INFO]: Spark left the game
-[05:38:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5072ms or 101 ticks behind
-[06:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
-[06:59:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
-[10:02:01] [Craft Scheduler Thread - 54241/INFO]: [Vault] Checking for Updates ... 
-[10:02:01] [Craft Scheduler Thread - 54241/INFO]: [Vault] There was an issue attempting to check for the latest version.
-[10:02:01] [Craft Scheduler Thread - 54241/INFO]: [Vault] No new version available
-[11:38:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
-[11:58:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[11:58:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5707ms or 114 ticks behind
-[13:58:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
-[15:13:02] [User Authenticator #49/INFO]: UUID of player Spark is 727391ad-66e8-3a37-aa13-a677709f4ec0
-[15:13:02] [Server thread/INFO]: Spark[/127.0.0.1:57684] logged in with entity id 3837397 at ([world]-3862.129917670223, 71.0, -15.84936116405857)
-[15:13:27] [Craft Scheduler Thread - 55932/INFO]: [AuthMe] Spark logged in!
-[15:18:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
-[15:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5590ms or 111 ticks behind
-[15:27:26] [Server thread/INFO]: Spark lost connection: Disconnected
-[15:27:26] [Server thread/INFO]: Spark left the game
-[15:50:01] [User Authenticator #50/INFO]: UUID of player Spark is 727391ad-66e8-3a37-aa13-a677709f4ec0
-[15:50:01] [Server thread/INFO]: Spark[/127.0.0.1:57802] logged in with entity id 3850229 at ([world]-3876.5658599660437, 71.0, -39.861527975777776)
-[15:50:17] [Craft Scheduler Thread - 56119/INFO]: [AuthMe] Spark logged in!
-[15:56:41] [Server thread/WARN]: Spark was kicked for floating too long!
-[15:56:41] [Server thread/INFO]: Spark lost connection: Flying is not enabled on this server
-[15:56:41] [Server thread/INFO]: Spark left the game
-[15:56:41] [Server thread/WARN]: handleDisconnection() called twice
-[15:57:44] [User Authenticator #51/INFO]: UUID of player Spark is 727391ad-66e8-3a37-aa13-a677709f4ec0
-[15:57:44] [Server thread/INFO]: Spark[/127.0.0.1:57822] logged in with entity id 3854698 at ([world]-3862.275427383618, 109.2829253285644, -18.756864021139748)
-[15:57:53] [Craft Scheduler Thread - 56161/INFO]: [AuthMe] Spark logged in!
-[15:58:33] [Server thread/INFO]: Spark was shot by Stray
-[15:58:41] [Server thread/INFO]: Spark issued server command: /back
-[16:02:32] [Craft Scheduler Thread - 56189/INFO]: [Vault] Checking for Updates ... 
-[16:02:32] [Craft Scheduler Thread - 56189/INFO]: [Vault] There was an issue attempting to check for the latest version.
-[16:02:32] [Craft Scheduler Thread - 56189/INFO]: [Vault] No new version available
-[16:10:42] [Server thread/INFO]: Spark lost connection: Disconnected
-[16:10:42] [Server thread/INFO]: Spark left the game
-[17:18:06] [User Authenticator #52/INFO]: UUID of player Spark is 727391ad-66e8-3a37-aa13-a677709f4ec0
-[17:18:06] [Server thread/INFO]: Spark[/127.0.0.1:33390] logged in with entity id 3886923 at ([world]-3849.146641718713, 73.0, -16.573993923397342)
-[17:18:20] [Craft Scheduler Thread - 56602/INFO]: [AuthMe] Spark logged in!
-[17:24:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
-[17:33:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
-[17:34:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14569ms or 291 ticks behind
-[17:34:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17421ms or 348 ticks behind
-[17:35:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17030ms or 340 ticks behind
-[17:36:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21311ms or 426 ticks behind
-[17:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19948ms or 398 ticks behind
-[17:38:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13665ms or 273 ticks behind
-[17:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7865ms or 157 ticks behind
-[17:39:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7360ms or 147 ticks behind
-[17:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11037ms or 220 ticks behind
-[17:40:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13722ms or 274 ticks behind
-[17:41:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13675ms or 273 ticks behind
-[17:42:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13494ms or 269 ticks behind
-[17:42:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9502ms or 190 ticks behind
-[17:43:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[17:44:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5034ms or 100 ticks behind
-[17:45:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
-[17:47:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
-[17:48:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
-[18:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
-[18:07:15] [Server thread/INFO]: CONSOLE issued server command: /give Spark acacia_log 128
-[18:07:15] [Server thread/INFO]: Giving 128 of acacia log to Spark.
-[18:07:27] [Server thread/INFO]: CONSOLE issued server command: /give Spark spruce_log 256
-[18:07:27] [Server thread/INFO]: Giving 256 of spruce log to Spark.
-[18:07:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16753ms or 335 ticks behind
-[18:07:57] [Server thread/INFO]: Unknown command
-[18:07:57] [Server thread/INFO]: /say<--[HERE]
-[18:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18256ms or 365 ticks behind
-[18:09:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17155ms or 343 ticks behind
-[18:09:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10848ms or 216 ticks behind
-[18:18:52] [Server thread/INFO]: Spark lost connection: Disconnected
-[18:18:52] [Server thread/INFO]: Spark left the game
-[18:20:01] [User Authenticator #53/INFO]: UUID of player Spark is 727391ad-66e8-3a37-aa13-a677709f4ec0
-[18:20:01] [Server thread/INFO]: Spark[/182.90.207.56:60143] logged in with entity id 3912412 at ([world]-3883.1143189256036, 71.0, -35.11079713820212)
-[18:20:10] [Craft Scheduler Thread - 56952/INFO]: [AuthMe] Spark logged in!
-[18:28:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
-[18:29:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
-[18:42:09] [Async Chat Thread - #33/INFO]: []<Spark> Spark
-[18:43:07] [Server thread/INFO]: Spark fell from a high place
-[18:43:19] [Server thread/INFO]: Spark issued server command: /back
-[19:02:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
-[19:12:21] [Server thread/INFO]: Spark hit the ground too hard
-[19:12:30] [Server thread/INFO]: Spark issued server command: /back
-[19:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5059ms or 101 ticks behind
-[19:20:43] [Server thread/INFO]: Spark fell from a high place
-[19:20:49] [Server thread/INFO]: Spark issued server command: /back
-[19:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
-[19:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
-[19:44:16] [Server thread/INFO]: Spark fell from a high place
-[19:44:26] [Server thread/INFO]: Spark issued server command: /back
-[19:44:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5049ms or 100 ticks behind
-[20:03:19] [Server thread/INFO]: Spark fell from a high place
-[20:03:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
-[20:03:32] [Server thread/INFO]: Spark issued server command: /back
-[20:05:52] [Server thread/INFO]: Spark fell from a high place
-[20:06:03] [Server thread/INFO]: Spark issued server command: /back
-[20:07:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
-[20:08:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
-[20:08:25] [Server thread/INFO]: Spark fell from a high place
-[20:08:35] [Server thread/INFO]: Spark issued server command: /back
-[20:09:21] [Server thread/INFO]: Spark fell from a high place
-[20:09:28] [Server thread/INFO]: Spark issued server command: /back
-[20:14:14] [Server thread/INFO]: Spark fell from a high place
-[20:14:22] [Server thread/INFO]: Spark issued server command: /back
-[20:14:40] [Server thread/INFO]: Spark fell from a high place
-[20:14:45] [Server thread/INFO]: Spark issued server command: /back
-[20:35:15] [Server thread/INFO]: Spark fell from a high place
-[20:35:22] [Server thread/INFO]: Spark issued server command: /back
-[20:40:02] [Server thread/INFO]: Spark fell from a high place
-[20:40:09] [Server thread/INFO]: Spark issued server command: /back
-[20:40:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5062ms or 101 ticks behind
-[20:41:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5025ms or 100 ticks behind
-[20:45:53] [Server thread/INFO]: Spark fell from a high place
-[20:46:02] [Server thread/INFO]: Spark issued server command: /back
-[20:47:50] [Server thread/INFO]: Spark fell from a high place
-[20:47:59] [Server thread/INFO]: Spark issued server command: /back
-[20:52:55] [Server thread/INFO]: Spark lost connection: Disconnected
-[20:52:55] [Server thread/INFO]: Spark left the game
-[21:12:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
-[21:22:45] [User Authenticator #54/INFO]: UUID of player Spark is 727391ad-66e8-3a37-aa13-a677709f4ec0
-[21:22:45] [Server thread/INFO]: Spark[/127.0.0.1:37594] logged in with entity id 3970556 at ([world]-3833.699999988079, 65.5, 21.262164227806394)
-[21:23:01] [Craft Scheduler Thread - 57952/INFO]: [AuthMe] Spark logged in!
-[21:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[21:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
-[21:31:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5052ms or 101 ticks behind
-[21:32:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8364ms or 167 ticks behind
-[21:44:28] [Server thread/INFO]: Spark lost connection: Disconnected
-[21:44:28] [Server thread/INFO]: Spark left the game
-[21:45:24] [User Authenticator #55/INFO]: UUID of player Spark is 727391ad-66e8-3a37-aa13-a677709f4ec0
-[21:45:24] [Server thread/INFO]: Spark[/182.90.207.56:61192] logged in with entity id 3981571 at ([world]-3852.0314598497303, 74.0, -37.6193337351617)
-[21:45:31] [Craft Scheduler Thread - 58084/INFO]: [AuthMe] Spark logged in!
-[21:52:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
-[22:08:49] [Craft Scheduler Thread - 58215/INFO]: [Vault] Checking for Updates ... 
-[22:08:49] [Craft Scheduler Thread - 58215/INFO]: [Vault] There was an issue attempting to check for the latest version.
-[22:08:49] [Craft Scheduler Thread - 58215/INFO]: [Vault] No new version available
-[22:12:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5044ms or 100 ticks behind
-[22:13:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5032ms or 100 ticks behind
-[22:14:27] [Server thread/INFO]: Spark fell from a high place
-[22:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
-[22:14:40] [Server thread/INFO]: Spark issued server command: /back
-[22:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[22:19:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7327ms or 146 ticks behind
-[22:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
-[22:20:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
-[22:32:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5061ms or 101 ticks behind
-[22:33:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6739ms or 134 ticks behind
-[22:33:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[00:00:42] [Server thread/INFO]: Spark issued server command: /clear
+[00:00:42] [Server thread/INFO]: [Essentials] Spark was denied access to command.
+[00:00:53] [Server thread/INFO]: Spark issued server command: /
+[00:02:06] [Server thread/INFO]: Spark issued server command: //wand
+[00:06:29] [Server thread/INFO]: Unknown command
+[00:06:29] [Server thread/INFO]: /op<--[HERE]
+[00:15:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5033ms or 100 ticks behind
+[00:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
+[00:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[00:54:00] [Server thread/INFO]: Spark lost connection: Disconnected
+[00:54:00] [Server thread/INFO]: Spark left the game
+[00:54:03] [User Authenticator #61/INFO]: UUID of player Spark is 727391ad-66e8-3a37-aa13-a677709f4ec0
+[00:54:04] [Server thread/INFO]: Spark[/127.0.0.1:43110] logged in with entity id 4068808 at ([world]-3884.967645674716, 74.74509953396392, -52.021645808839544)
+[00:54:12] [Craft Scheduler Thread - 59118/INFO]: [AuthMe] Spark logged in!
+[00:54:13] [Server thread/INFO]: Spark lost connection: Disconnected
+[00:54:13] [Server thread/INFO]: Spark left the game
+[00:54:20] [User Authenticator #61/INFO]: UUID of player Spark is 727391ad-66e8-3a37-aa13-a677709f4ec0
+[00:54:20] [Server thread/INFO]: Spark[/127.0.0.1:43116] logged in with entity id 4068895 at ([world]-3884.967645674716, 71.0, -52.021645808839544)
+[00:54:27] [Craft Scheduler Thread - 59117/INFO]: [AuthMe] Spark logged in!
+[00:54:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5032ms or 100 ticks behind
+[00:55:15] [Server thread/INFO]: CONSOLE issued server command: /gamemode creative Spark
+[00:55:15] [Server thread/INFO]: Set game mode creative for Spark.
+[00:55:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[01:16:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5032ms or 100 ticks behind
+[01:35:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[01:55:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5082ms or 101 ticks behind
+[02:15:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[02:16:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5417ms or 108 ticks behind
+[02:35:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[02:36:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6487ms or 129 ticks behind
+[02:56:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[03:16:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
+[03:16:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6066ms or 121 ticks behind
+[03:56:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[03:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5206ms or 104 ticks behind
+[04:12:55] [Craft Scheduler Thread - 60223/INFO]: [Vault] Checking for Updates ... 
+[04:12:56] [Craft Scheduler Thread - 60223/INFO]: [Vault] There was an issue attempting to check for the latest version.
+[04:12:56] [Craft Scheduler Thread - 60223/INFO]: [Vault] No new version available
+[04:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[04:22:36] [Server thread/INFO]: Spark lost connection: Disconnected
+[04:22:36] [Server thread/INFO]: Spark left the game
+[10:13:00] [Craft Scheduler Thread - 62176/INFO]: [Vault] Checking for Updates ... 
+[10:13:01] [Craft Scheduler Thread - 62176/INFO]: [Vault] There was an issue attempting to check for the latest version.
+[10:13:01] [Craft Scheduler Thread - 62176/INFO]: [Vault] No new version available
+[11:36:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5312ms or 106 ticks behind
+[14:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5081ms or 101 ticks behind
+[16:13:05] [User Authenticator #62/INFO]: UUID of player Spark is 727391ad-66e8-3a37-aa13-a677709f4ec0
+[16:13:05] [Server thread/INFO]: Spark[/127.0.0.1:47422] logged in with entity id 4419959 at ([world]-3860.7002419861456, 70.9375, -17.46470969581749)
+[16:13:11] [Craft Scheduler Thread - 64162/INFO]: [Vault] Checking for Updates ... 
+[16:13:11] [Craft Scheduler Thread - 64162/INFO]: [Vault] There was an issue attempting to check for the latest version.
+[16:13:11] [Craft Scheduler Thread - 64162/INFO]: [Vault] No new version available
+[16:13:18] [Craft Scheduler Thread - 64164/INFO]: [AuthMe] Spark logged in!
+[16:28:14] [Server thread/INFO]: CONSOLE issued server command: /gamemode creative Spark
+[16:28:14] [Server thread/INFO]: Set game mode creative for Spark.
+[16:36:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[16:37:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5086ms or 101 ticks behind
+[16:56:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5306ms or 106 ticks behind
+[16:57:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
