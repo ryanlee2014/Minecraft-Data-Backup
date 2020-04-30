@@ -1502,3 +1502,9 @@ Caused by: java.io.IOException: Server returned HTTP response code: 530 for URL:
 [04-29 00:54:12]: [FINE] Spark logged in!
 [04-29 00:54:27]: [FINE] Spark logged in!
 [04-29 16:13:18]: [FINE] Spark logged in!
+[04-29 20:35:53]: [FINE] Spark logged in!
+[04-29 21:06:33]: [FINE] Spark logged in!
+[04-29 21:20:34]: [FINE] Spark logged in!
+[04-29 22:17:31]: [FINE] Spark logged in!
+[04-29 22:20:16]: [FINE] Spark used the wrong password
+[04-29 22:20:26]: [FINE] Spark logged in!

@@ -775,6 +775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2020-04-29 21:22:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2020-01-29 17:14:59 +0800"
@@ -3760,6 +3766,7 @@
       "melon_slice": "2020-02-02 17:56:49 +0800",
       "beetroot": "2020-02-09 00:32:21 +0800",
       "cooked_rabbit": "2020-03-13 01:08:33 +0800",
+      "enchanted_golden_apple": "2020-04-29 21:37:19 +0800",
       "cod": "2020-02-02 18:26:06 +0800",
       "rabbit_stew": "2020-04-22 18:26:39 +0800",
       "cooked_salmon": "2020-01-28 18:33:59 +0800",
@@ -3926,6 +3933,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2020-02-21 22:15:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2020-04-29 21:22:40 +0800"
     },
     "done": true
   },
@@ -4532,6 +4545,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2020-01-30 18:50:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2020-04-29 21:22:40 +0800"
     },
     "done": true
   },
