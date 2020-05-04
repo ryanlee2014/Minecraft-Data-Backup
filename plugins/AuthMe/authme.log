@@ -1520,3 +1520,4 @@ Caused by: java.io.IOException: Server returned HTTP response code: 530 for URL:
 [05-04 01:01:24]: [FINE] Spark logged in!
 [05-04 01:31:29]: [FINE] Spark logged in!
 [05-04 03:03:28]: [FINE] Ryan logged in!
+[05-05 07:40:39]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2347 disabled!
