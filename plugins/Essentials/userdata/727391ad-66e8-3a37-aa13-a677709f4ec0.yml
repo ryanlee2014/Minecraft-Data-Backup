@@ -7,15 +7,15 @@ lastlocation:
   pitch: 16.177588
 lastAccountName: Spark
 timestamps:
-  login: 1595953441765
-  logout: 1595958357302
+  login: 1596015067326
+  logout: 1596025932087
   lastteleport: 1595958231053
 ipAddress: 111.58.244.227
 logoutlocation:
   world: world
-  x: -5177.955453270556
-  y: 89.0
-  z: 908.3846850859064
-  yaw: 67.677
-  pitch: 35.276577
+  x: -5180.3061849225705
+  y: 78.0
+  z: 903.7434795234477
+  yaw: 322.16895
+  pitch: 9.639507
 afk: false

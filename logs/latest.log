@@ -1,147 +1,42 @@
-[00:01:58] [pool-12-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
-[00:24:01] [User Authenticator #2/INFO]: UUID of player Spark is 727391ad-66e8-3a37-aa13-a677709f4ec0
-[00:24:01] [Server thread/INFO]: Spark[/111.58.244.227:25940] logged in with entity id 39037 at ([world]-3773.308345160465, 64.0, 51.613025944898915)
-[00:24:03] [Craft Scheduler Thread - 384/INFO]: Failed to check for Residence update on spigot web page.
-[00:24:18] [Craft Scheduler Thread - 381/INFO]: [AuthMe] Spark logged in!
-[00:25:22] [Server thread/INFO]: Spark issued server command: /g
-[00:25:34] [Server thread/INFO]: Spark issued server command: /gamemode
-[00:25:45] [Server thread/INFO]: Spark issued server command: /gamemode 01
-[00:26:10] [Server thread/INFO]: Spark issued server command: /gamemode
-[00:26:23] [Server thread/INFO]: Spark issued server command: /gamemode creative
-[00:27:16] [User Authenticator #3/INFO]: UUID of player Ryan is 9387eaef-0e77-38c7-ab30-0a74e6b7dc95
-[00:27:17] [Server thread/INFO]: Ryan[/101.88.142.70:15387] logged in with entity id 39530 at ([world]-3624.21531284762, 139.0, -1.3927275747407495)
-[00:27:17] [Craft Scheduler Thread - 398/INFO]: Failed to check for Residence update on spigot web page.
-[00:27:22] [Craft Scheduler Thread - 397/INFO]: [AuthMe] Ryan logged in!
-[00:27:47] [Server thread/INFO]: Ryan issued server command: /gamemode creative
-[00:27:59] [Server thread/INFO]: Spark issued server command: /tp Spark -5066 68 4742
-[00:27:59] [Server thread/INFO]: Spark issued server command: /tppos -5066 68 4742
-[00:28:01] [Server thread/INFO]: Ryan issued server command: /tp Ryan Spark
-[00:28:08] [Async Chat Thread - #0/INFO]: []<Spark> ?
-[00:28:25] [Async Chat Thread - #0/INFO]: []<Ryan> 来看看
-[00:28:31] [Async Chat Thread - #0/INFO]: []<Spark> 你每次上线啊都要吓我一跳
-[00:28:48] [Async Chat Thread - #0/INFO]: []<Ryan> 草
-[00:29:00] [Async Chat Thread - #0/INFO]: []<Spark> 刚才在摸鱼，刚上线
-[00:29:14] [Server thread/INFO]: Spark issued server command: /back
-[00:29:26] [Server thread/INFO]: Ryan issued server command: /tp Ryan Spark
-[00:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
-[00:30:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7518ms or 150 ticks behind
-[00:31:58] [pool-12-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
-[00:32:54] [Server thread/INFO]: Ryan lost connection: Disconnected
-[00:32:54] [Server thread/INFO]: Ryan left the game
-[00:37:51] [Server thread/INFO]: Spark issued server command: /tp Spark -5168 63 854
-[00:37:51] [Server thread/INFO]: Spark issued server command: /tppos -5168 63 854
-[00:47:34] [Server thread/INFO]: Spark issued server command: //wand
-[00:47:57] [Server thread/INFO]: Spark issued server command: //cut
-[00:48:26] [Server thread/INFO]: Spark issued server command: /cut
-[00:48:30] [Server thread/INFO]: Spark issued server command: //cut
-[00:50:25] [Server thread/INFO]: Spark issued server command: //set glass
-[00:50:43] [Server thread/INFO]: Spark issued server command: //set glass
-[00:51:46] [Server thread/INFO]: Spark issued server command: //set glass
-[00:52:00] [Server thread/INFO]: Spark issued server command: //set glass
-[01:02:08] [Server thread/INFO]: Spark issued server command: //set
-[01:03:46] [Server thread/INFO]: Spark issued server command: //set minecraft:brick_slab
-[01:03:57] [Server thread/INFO]: Spark issued server command: //undo
-[01:18:52] [Server thread/INFO]: Spark issued server command: //set brich_planks
-[01:19:16] [Server thread/INFO]: Spark issued server command: //set birch_planks
-[01:19:39] [Server thread/INFO]: Spark issued server command: //set birch_planks
-[01:22:34] [Server thread/INFO]: Spark issued server command: //set campfire
-[01:23:25] [Server thread/INFO]: Spark issued server command: //set campfire
-[01:24:03] [Server thread/INFO]: Spark issued server command: //set campfire
-[01:24:25] [Server thread/INFO]: Spark issued server command: //set campfire
-[01:28:17] [Server thread/INFO]: Spark issued server command: //set glass
-[01:28:47] [Server thread/INFO]: Spark issued server command: //set glass
-[01:30:58] [Server thread/INFO]: Spark issued server command: //set glass
-[01:32:21] [Server thread/INFO]: Spark issued server command: //set glass
-[01:34:20] [Server thread/INFO]: Spark issued server command: /tp Spark -1703 63 934
-[01:34:20] [Server thread/INFO]: Spark issued server command: /tppos -1703 63 934
-[01:35:40] [Server thread/INFO]: Spark issued server command: /tp Spark -1687 63 -16
-[01:35:40] [Server thread/INFO]: Spark issued server command: /tppos -1687 63 -16
-[01:36:43] [Server thread/INFO]: Spark issued server command: /tp Spark -1691 63 333
-[01:36:43] [Server thread/INFO]: Spark issued server command: /tppos -1691 63 333
-[01:36:59] [Server thread/INFO]: Spark issued server command: /tp Spark -1734 63 768
-[01:36:59] [Server thread/INFO]: Spark issued server command: /tppos -1734 63 768
-[01:37:24] [Server thread/INFO]: Spark issued server command: /tp Spark -1587 71 766
-[01:37:24] [Server thread/INFO]: Spark issued server command: /tppos -1587 71 766
-[01:37:36] [Server thread/INFO]: Spark issued server command: /tp Spark -1292 75 767
-[01:37:36] [Server thread/INFO]: Spark issued server command: /tppos -1292 75 767
-[01:37:39] [Server thread/INFO]: Spark issued server command: /tp Spark -1362 71 751
-[01:37:39] [Server thread/INFO]: Spark issued server command: /tppos -1362 71 751
-[01:38:07] [Server thread/INFO]: Spark issued server command: /tp Spark -1533 71 771
-[01:38:07] [Server thread/INFO]: Spark issued server command: /tppos -1533 71 771
-[01:38:25] [Server thread/INFO]: Spark issued server command: /tp Spark -1126 80 765
-[01:38:25] [Server thread/INFO]: Spark issued server command: /tppos -1126 80 765
-[01:38:48] [Server thread/INFO]: Spark issued server command: /tp Spark -1026 77 767
-[01:38:48] [Server thread/INFO]: Spark issued server command: /tppos -1026 77 767
-[01:38:52] [Server thread/INFO]: Spark issued server command: /tp Spark -960 63 769
-[01:38:52] [Server thread/INFO]: Spark issued server command: /tppos -960 63 769
-[01:39:04] [Server thread/INFO]: Spark issued server command: /tp Spark -1092 109 771
-[01:39:04] [Server thread/INFO]: Spark issued server command: /tppos -1092 109 771
-[01:39:28] [Server thread/INFO]: Spark issued server command: /tp Spark -837 88 770
-[01:39:28] [Server thread/INFO]: Spark issued server command: /tppos -837 88 770
-[01:39:32] [Server thread/INFO]: Spark issued server command: /tp Spark -758 88 770
-[01:39:32] [Server thread/INFO]: Spark issued server command: /tppos -758 88 770
-[01:39:36] [Server thread/INFO]: Spark issued server command: /tp Spark -673 88 770
-[01:39:36] [Server thread/INFO]: Spark issued server command: /tppos -673 88 770
-[01:39:43] [Server thread/INFO]: Spark issued server command: /tp Spark -528 88 771
-[01:39:43] [Server thread/INFO]: Spark issued server command: /tppos -528 88 771
-[01:40:00] [Server thread/INFO]: Spark issued server command: /tp Spark -64 64 -152
-[01:40:00] [Server thread/INFO]: Spark issued server command: /tppos -64 64 -152
-[01:40:21] [Server thread/INFO]: Spark issued server command: /tp Spark 238 69 -73
-[01:40:21] [Server thread/INFO]: Spark issued server command: /tppos 238 69 -73
-[01:40:23] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[01:40:23] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[01:40:23] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[01:41:39] [Server thread/INFO]: Spark issued server command: /tp Spark -3318 81 -3201
-[01:41:39] [Server thread/INFO]: Spark issued server command: /tppos -3318 81 -3201
-[01:41:47] [Server thread/INFO]: Spark issued server command: /tp Spark -3849 65 -3301
-[01:41:47] [Server thread/INFO]: Spark issued server command: /tppos -3849 65 -3301
-[01:42:06] [Server thread/INFO]: Spark issued server command: /tp Spark -4295 63 -3395
-[01:42:06] [Server thread/INFO]: Spark issued server command: /tppos -4295 63 -3395
-[01:42:55] [Server thread/INFO]: Spark issued server command: /tp Spark -3748 59 -2939
-[01:42:55] [Server thread/INFO]: Spark issued server command: /tppos -3748 59 -2939
-[01:43:51] [Server thread/INFO]: Spark issued server command: /tp Spark -5178 89 908
-[01:43:51] [Server thread/INFO]: Spark issued server command: /tppos -5178 89 908
-[01:45:57] [Server thread/INFO]: Spark lost connection: Disconnected
-[01:45:57] [Server thread/INFO]: Spark left the game
-[02:23:12] [Server thread/INFO]: Stopping the server
-[02:23:12] [Server thread/INFO]: Stopping server
-[02:23:12] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-SNAPSHOT-b2347
-[02:23:12] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
-[02:23:12] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-SNAPSHOT-b2347 disabled!
-[02:23:12] [Server thread/INFO]: [Residence] Disabling Residence v4.8.8.2
-[02:23:12] [Server thread/INFO]: [Residence] Disabled!
-[02:23:12] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.1.5
-[02:23:12] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.1.29
-[02:23:12] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.1.29
-[02:23:12] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.1.29
-[02:23:12] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.1.29
-[02:23:12] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
-[02:23:12] [Server thread/INFO]: [BossShopPro] Disabling BossShopPro v2.0.8
-[02:23:12] [Server thread/INFO]: [BossShopPro] Disabling... bye!
-[02:23:12] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.1.1-SNAPSHOT-b777
-[02:23:12] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v2.1.5-SNAPSHOT
-[02:23:12] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: playerpoints
-[02:23:12] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
-[02:23:12] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
-[02:23:12] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: vault
-[02:23:12] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v2.2.2
-[02:23:12] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[02:23:12] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0.4-b136
-[02:23:12] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
-[02:23:12] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
-[02:23:12] [Server thread/INFO]: GroupManager version 2.0.4-b136 is disabled!
-[02:23:12] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.4
-[02:23:12] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.7.1
-[02:23:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
-[02:23:12] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[02:23:12] [Server thread/INFO]: Saving players
-[02:23:12] [Server thread/INFO]: Saving worlds
-[02:23:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[02:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:23:12] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[02:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:23:12] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[02:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:49:29] [Server thread/INFO]: Stopping the server
+[01:49:29] [Server thread/INFO]: Stopping server
+[01:49:29] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-SNAPSHOT-b2347
+[01:49:29] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[01:49:29] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-SNAPSHOT-b2347 disabled!
+[01:49:29] [Server thread/INFO]: [Residence] Disabling Residence v4.8.8.2
+[01:49:29] [Server thread/INFO]: [Residence] Disabled!
+[01:49:29] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.1.5
+[01:49:29] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.1.29
+[01:49:29] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.1.29
+[01:49:29] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.1.29
+[01:49:29] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.1.29
+[01:49:29] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[01:49:29] [Server thread/INFO]: [BossShopPro] Disabling BossShopPro v2.0.8
+[01:49:29] [Server thread/INFO]: [BossShopPro] Disabling... bye!
+[01:49:29] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.1.1-SNAPSHOT-b777
+[01:49:29] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v2.1.5-SNAPSHOT
+[01:49:29] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: playerpoints
+[01:49:29] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[01:49:29] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[01:49:29] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: vault
+[01:49:29] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v2.2.2
+[01:49:29] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[01:49:29] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0.4-b136
+[01:49:29] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[01:49:29] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[01:49:29] [Server thread/INFO]: GroupManager version 2.0.4-b136 is disabled!
+[01:49:29] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.4
+[01:49:29] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.7.1
+[01:49:29] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[01:49:29] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[01:49:29] [Server thread/INFO]: Saving players
+[01:49:29] [Server thread/INFO]: Saving worlds
+[01:49:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:49:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:49:30] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[01:49:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:49:30] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[01:49:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:49:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:49:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:49:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
